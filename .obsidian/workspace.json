@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Readme.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -153,7 +153,7 @@
     "direction": "horizontal",
     "width": 363.5
   },
-  "active": "18bbcc4dbb7d06b4",
+  "active": "36152950bc9fdf06",
   "lastOpenFiles": [
     "Laravel/Package/UI.md",
     "Laravel/Package/Livewire.md",
