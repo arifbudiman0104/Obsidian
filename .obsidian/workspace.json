@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Package/Jetstream.md",
-                "mode": "source",
+                "file": "Laravel/Package/Breeze.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Package/Jetstream.md"
+                "file": "Laravel/Package/Breeze.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/Package/Jetstream.md",
+                "file": "Laravel/Package/Breeze.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Package/Jetstream.md",
+                "file": "Laravel/Package/Breeze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,6 +155,7 @@
   },
   "active": "18bbcc4dbb7d06b4",
   "lastOpenFiles": [
+    "Laravel/Package/DOMPDF.md",
     "Laravel/Package/Breeze.md",
     "Laravel/Package/Jetstream.md",
     "Laravel/Package/Frontend Preset.md",
@@ -162,7 +164,6 @@
     "Laravel/Media/Jetstream.png",
     "Laravel/Exported/Breeze & Jetstream.pdf",
     "Laravel/Package/Breeze & Jetstream.pdf",
-    "Laravel/Package/DOMPDF.md",
     "Laravel/Laravel Note.md"
   ]
 }
