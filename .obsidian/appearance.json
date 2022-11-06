@@ -1,0 +1,13 @@
+{
+  "accentColor": "#00cafc",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "textFontFamily": "",
+  "monospaceFontFamily": "Cascadia Code,Cascadia Code PL,Fira Code",
+  "interfaceFontFamily": "Fira Code",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": true,
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
+}

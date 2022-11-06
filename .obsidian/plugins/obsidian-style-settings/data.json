@@ -1,0 +1,12 @@
+{
+  "minimal-style@@bold-weight": 600,
+  "minimal-style@@h1-l": true,
+  "minimal-style@@minimal-unstyled-tags": false,
+  "minimal-style@@tag-radius": "14px",
+  "minimal-style@@tag-border-width": "1px",
+  "minimal-style@@tag-color@@dark": "#00CDFF",
+  "minimal-style@@tag-color@@light": "#00CDFF",
+  "minimal-style@@tag-background@@dark": "#ECFBFF00",
+  "minimal-style@@tag-background@@light": "#ECFBFF00",
+  "minimal-advanced@@styled-scrollbars": true
+}

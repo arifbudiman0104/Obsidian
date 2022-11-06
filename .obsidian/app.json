@@ -1,0 +1,21 @@
+{
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "livePreview": true,
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "attachmentFolderPath": "Laravel/Media",
+  "promptDelete": false,
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "preview"
+}
