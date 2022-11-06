@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Package/Breeze.md",
-                "mode": "source",
+                "file": "Laravel/Package/UI.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Package/Breeze.md"
+                "file": "Laravel/Package/UI.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/Package/Breeze.md",
+                "file": "Laravel/Package/UI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Package/Breeze.md",
+                "file": "Laravel/Package/UI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,15 +153,15 @@
     "direction": "horizontal",
     "width": 363.5
   },
-  "active": "36152950bc9fdf06",
+  "active": "18bbcc4dbb7d06b4",
   "lastOpenFiles": [
     "Laravel/Package/Livewire.md",
-    "Laravel/Package/UI.md",
-    "Laravel/Package/Frontend Preset.md",
     "Laravel/Package/Jetstream.md",
     "Laravel/Package/Excel.md",
-    "Laravel/Package/Breeze.md",
+    "Laravel/Package/Frontend Preset.md",
     "Laravel/Package/DOMPDF.md",
+    "Laravel/Package/Breeze.md",
+    "Laravel/Package/UI.md",
     "Laravel/Installation/Laragon.md",
     "Laravel/Package/Thumbnail/Breeze.png",
     "Laravel/Package/Thumbnail/Jetstream.png"
