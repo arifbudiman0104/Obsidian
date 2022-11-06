@@ -13,9 +13,12 @@
   "showFrontmatter": true,
   "showLineNumber": true,
   "readableLineLength": true,
-  "attachmentFolderPath": "Laravel/Media",
+  "attachmentFolderPath": "Laravel/Package/Thumbnail",
   "promptDelete": false,
   "useMarkdownLinks": false,
   "showUnsupportedFiles": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "foldHeading": true,
+  "showIndentGuide": true,
+  "foldIndent": true
 }

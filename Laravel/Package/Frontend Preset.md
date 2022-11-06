@@ -1,7 +1,12 @@
 #laravel #laravelauth 
 # Laravel Frontend Preset
+![[Frontend Preset.png]]
+[Laravel Frontend Preset Github](https://github.com/laravel-frontend-presets)
 
 # Tailwind CSS
+![[FP Tailwind.png]]
+
+[Frontend Preset Tailwind Github](https://github.com/laravel-frontend-presets/tailwindcss)
 
 ```php
 composer require laravel-frontend-presets/tailwindcss --dev 
@@ -28,6 +33,9 @@ php artisan serve
 ---
 
 # TALL (Tailwind, Alpine.js,Laravel, Livewire)
+![[FP TALL.png]]
+
+[Frontend Preset TALL Github](https://github.com/laravel-frontend-presets/tall)
 
 -   [Tailwind CSS](https://tailwindcss.com/)
 -   [Alpine.js](https://alpinejs.dev/)

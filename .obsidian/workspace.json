@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Laravel/Package/Breeze.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -153,17 +153,17 @@
     "direction": "horizontal",
     "width": 363.5
   },
-  "active": "18bbcc4dbb7d06b4",
+  "active": "36152950bc9fdf06",
   "lastOpenFiles": [
-    "Laravel/Package/DOMPDF.md",
-    "Laravel/Package/Breeze.md",
-    "Laravel/Package/Jetstream.md",
+    "Laravel/Package/Livewire.md",
+    "Laravel/Package/UI.md",
     "Laravel/Package/Frontend Preset.md",
+    "Laravel/Package/Jetstream.md",
+    "Laravel/Package/Excel.md",
+    "Laravel/Package/Breeze.md",
+    "Laravel/Package/DOMPDF.md",
     "Laravel/Installation/Laragon.md",
-    "Laravel/Media/Breeze.png",
-    "Laravel/Media/Jetstream.png",
-    "Laravel/Exported/Breeze & Jetstream.pdf",
-    "Laravel/Package/Breeze & Jetstream.pdf",
-    "Laravel/Laravel Note.md"
+    "Laravel/Package/Thumbnail/Breeze.png",
+    "Laravel/Package/Thumbnail/Jetstream.png"
   ]
 }

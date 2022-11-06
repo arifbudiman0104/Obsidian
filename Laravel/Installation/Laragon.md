@@ -1,5 +1,6 @@
 #laravel
 # What is Laragon?
+![[Laragon.png]]
 
 Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.
 

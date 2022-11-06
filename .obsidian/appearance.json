@@ -5,9 +5,9 @@
   "textFontFamily": "",
   "monospaceFontFamily": "Cascadia Code,Cascadia Code PL,Fira Code",
   "interfaceFontFamily": "Fira Code",
-  "showViewHeader": true,
+  "showViewHeader": false,
   "nativeMenus": false,
-  "translucency": true,
+  "translucency": false,
   "baseFontSize": 16,
   "baseFontSizeAction": true
 }
