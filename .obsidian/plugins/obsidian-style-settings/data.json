@@ -18,5 +18,8 @@
   "minimal-style@@h4-size": "1.25em",
   "minimal-style@@h5-size": "1em",
   "minimal-style@@h6-size": "0.8em",
-  "minimal-style@@spacing-p": "0.5em"
+  "minimal-style@@spacing-p": "0.5em",
+  "minimal-style@@code-size": "16px",
+  "minimal-style@@code-background@@dark": "#273040",
+  "minimal-style@@code-background@@light": "#ECF3FF"
 }

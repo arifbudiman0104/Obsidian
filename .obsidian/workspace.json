@@ -4,50 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "6cb08deda3c1db4c",
+        "id": "aa2f44d871fef9ac",
         "type": "tabs",
         "children": [
           {
-            "id": "5752d08a5ee5ffe9",
+            "id": "965c11f12cc7fad8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Installation.md",
+                "file": "Windows/App Settings/Laragon.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "065c2e34568bfc39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows/App Settings/VSCode.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52b6db3de30ae064",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laravel/Laravel Note.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Laravel Note.md"
+                "file": "Windows/App Settings/Laragon.md"
               }
             }
           },
@@ -131,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/Laravel Note.md",
+                "file": "Windows/App Settings/Laragon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Laravel Note.md",
+                "file": "Windows/App Settings/Laragon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,17 +167,17 @@
     "direction": "horizontal",
     "width": 361.5
   },
-  "active": "52b6db3de30ae064",
+  "active": "36152950bc9fdf06",
   "lastOpenFiles": [
-    "Laravel/Laravel Note.md",
-    "Laravel/Installation.md",
-    "Laravel/Package/Untitled.md",
     "Windows/App Settings/Laragon.md",
+    "Exported/Breeze.pdf",
+    "Laravel/Installation.md",
+    "Laravel/Laravel Note.md",
+    "Laravel/Package/Untitled.md",
     "Windows/App Settings/VSCode.md",
     "Readme.md",
     "Windows/App Settings/Terminal.md",
     "Windows/Windows Note.md",
-    "Windows/App Settings/Thumbnail/Pasted image 20221108015230.png",
-    "Windows/App Settings/Thumbnail/Laragon.png"
+    "Windows/App Settings/Thumbnail/Pasted image 20221108015230.png"
   ]
 }
