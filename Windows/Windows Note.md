@@ -4,7 +4,9 @@
 ## App Settings
 
 [[Laragon]]
+
 [[Terminal]]
+
 [[VSCode]]
 
 # App List
