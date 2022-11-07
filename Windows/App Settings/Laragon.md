@@ -1,4 +1,4 @@
-#laravel #app 
+#laravel #app #windows 
 # Laragon
 ![[Laragon.png]]
 

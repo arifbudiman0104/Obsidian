@@ -1,4 +1,4 @@
-#windows #app 
+#windows #app #windows 
 # Terminal
 ![Terminal](https://user-images.githubusercontent.com/48369326/115790869-4c852b00-a37c-11eb-97f1-f61972c7800c.png)
 
