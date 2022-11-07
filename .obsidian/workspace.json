@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fa1da46d3509d194",
+        "id": "2af18b7a2ac9a5f7",
         "type": "tabs",
         "children": [
           {
-            "id": "6e26c9d0e2b6418f",
+            "id": "7dd2b39185b082be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Windows Note.md",
-                "mode": "source",
+                "file": "Laravel/Package/Breeze.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#laravelcontroller",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "d8fe3bb71cd8bbe8",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Windows Note.md"
+                "file": "Laravel/Package/Breeze.md"
               }
             }
           },
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Windows Note.md",
+                "file": "Laravel/Package/Breeze.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Windows Note.md",
+                "file": "Laravel/Package/Breeze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,17 +153,17 @@
     "direction": "horizontal",
     "width": 361.5
   },
-  "active": "6e26c9d0e2b6418f",
+  "active": "7dd2b39185b082be",
   "lastOpenFiles": [
-    "Windows/App Settings/Laragon.md",
-    "Windows/Windows Note.md",
-    "WSL/Command.md",
-    "WSL/WSL Note.md",
-    "Windows/App List.md",
+    "Timeline.md",
     "Laravel/Tutorials/Laravel 8 CRUD.md",
     "Laravel/Tutorials/WPU.md",
-    "Laravel/Package/Frontend Preset.md",
-    "Laravel/Package/Livewire.md",
+    "Laravel/Installation.md",
+    "Laravel/System/View.md",
+    "Laravel/System/Model.md",
+    "Laravel/System/Env.md",
+    "Laravel/System/Controller.md",
+    "Laravel/Package/Breeze.md",
     "Laravel/Laravel Note.md"
   ]
 }

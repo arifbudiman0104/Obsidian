@@ -1,4 +1,4 @@
-#laravel #vscode 
+#laravel #vscode #app 
 # VSCode Settings
 ## Extensions
 1. sdf

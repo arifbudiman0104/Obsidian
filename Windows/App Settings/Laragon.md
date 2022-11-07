@@ -1,4 +1,4 @@
-#laravel
+#laravel #app 
 # What is Laragon?
 ![[Laragon.png]]
 

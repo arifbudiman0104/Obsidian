@@ -1,4 +1,4 @@
-#windows 
+#windows #app 
 # Terminal
 ## Theme Installations
 ### OhMyPosh

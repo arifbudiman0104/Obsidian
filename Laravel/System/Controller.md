@@ -1,2 +1,2 @@
-#laravel 
-# Controller
+#laravel
+# Laravel Controller

@@ -1,4 +1,4 @@
-#laravel #laravelauth 
+#laravel #laravelauth #laravelpackage
 # Laravel Frontend Preset
 ![[Frontend Preset.png]]
 [Laravel Frontend Preset Github](https://github.com/laravel-frontend-presets)

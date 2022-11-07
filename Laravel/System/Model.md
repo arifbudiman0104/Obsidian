@@ -1,2 +1,2 @@
-#laravel 
-# Model
+#laravel
+# Laravel Model
