@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Installation.md"
+                "file": "Laravel/Laravel Note.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/Installation.md",
+                "file": "Laravel/Laravel Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Installation.md",
+                "file": "Laravel/Laravel Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,11 +194,11 @@
     "direction": "horizontal",
     "width": 361.5
   },
-  "active": "36152950bc9fdf06",
+  "active": "52b6db3de30ae064",
   "lastOpenFiles": [
-    "Laravel/Package/Untitled.md",
     "Laravel/Laravel Note.md",
     "Laravel/Installation.md",
+    "Laravel/Package/Untitled.md",
     "Windows/App Settings/Laragon.md",
     "Windows/App Settings/VSCode.md",
     "Readme.md",
