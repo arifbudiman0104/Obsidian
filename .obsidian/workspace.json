@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e55ff4b7a34cff19",
+        "id": "3d66688ba05e67fe",
         "type": "tabs",
         "children": [
           {
-            "id": "46b8346b72bfa2fd",
+            "id": "28c9525aab39ed82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Installation/Laragon.md",
+                "file": "Windows/Windows Note.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "e6b62ef4b1923107",
+            "id": "c36b576303e2b2d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Laravel/Tutorials/Laravel 8 CRUD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,33 +34,15 @@
             }
           },
           {
-            "id": "a9ea83c6321e24d4",
+            "id": "0cf89e5d98f31cce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laravel/Package/Breeze.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "806b4b1181ed7392",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laravel/Package/Frontend Preset.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -70,24 +52,8 @@
     "type": "split",
     "children": [
       {
-        "id": "98f6ee5bd8597ed9",
-        "type": "tabs",
-        "dimension": 25.872093023255815,
-        "children": [
-          {
-            "id": "63072d9f523cc662",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "5945797aec93b1c1",
         "type": "tabs",
-        "dimension": 74.12790697674419,
         "children": [
           {
             "id": "837c0cb47d6d254d",
@@ -105,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#laravel",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,13 +79,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "63072d9f523cc662",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "d8fe3bb71cd8bbe8",
@@ -134,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Readme.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -202,17 +171,17 @@
     "direction": "horizontal",
     "width": 361.5
   },
-  "active": "e6b62ef4b1923107",
+  "active": "36152950bc9fdf06",
   "lastOpenFiles": [
-    "Laravel/Installation/Laragon.md",
-    "Laravel/Laravel Note.md",
-    "Laravel/Package/Breeze.md",
-    "Laravel/Package/Frontend Preset.md",
+    "Laravel/Tutorials/Laravel 8 CRUD.md",
+    "Laravel/Tutorials/WPU.md",
     "Windows/Windows Note.md",
-    "WSL/WSL Note.md",
-    "Thesis/Thesis Note.md",
-    "PKW/Kelas B.md",
-    "PKW/Materi/Materi 3.md",
-    "PKW/Materi/Materi 1.md"
+    "Laravel/Package/Frontend Preset.md",
+    "Laravel/Package/Livewire.md",
+    "Laravel/Laravel Note.md",
+    "Laravel/Installation.md",
+    "Windows/App Settings/Laragon.md",
+    "Windows/App Settings/Terminal.md",
+    "Windows/App List.md"
   ]
 }

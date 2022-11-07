@@ -19,6 +19,6 @@
   "showUnsupportedFiles": true,
   "defaultViewMode": "preview",
   "foldHeading": true,
-  "showIndentGuide": true,
+  "showIndentGuide": false,
   "foldIndent": true
 }

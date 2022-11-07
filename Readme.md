@@ -7,6 +7,10 @@ This is Arif Budiman Arrosyid personal note, made with Obsidian.
 
 [Obsidian](https://obsidian.md/)
 
+## Font
+- Inter (used for interface and text view mode)
+- Cascadia Mono (used for text edit mode and code block)
+
 ## Shortcut
 - `Ctrl + P` (open Obsidian command)
 - `Ctrl + E` (open or close edit mode)

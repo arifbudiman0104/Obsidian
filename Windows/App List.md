@@ -1,7 +1,7 @@
 #windows 
 # Code
-- [x] VS Code
-- [x] Laragon
+- [x] [[VSCode]]
+- [x] [[Laragon]]
 - [x] PHP
 - [x] Node.js
 - [x] Terminal

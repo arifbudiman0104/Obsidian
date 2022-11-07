@@ -1,6 +1,6 @@
 #laravel #readme  
 # Laravel
-## Installation
+## [[Installation]]
 [[Laragon]]
 
 ## System
@@ -14,11 +14,13 @@
 [[DOMPDF]]
 [[Excel]]
 [[Frontend Preset]]
+[[Jetstream]]
 [[Livewire]]
 [[UI]]
 
 ## VS Code
-[[Settings]]
+[[VSCode]]
 
 ## Tutorial
 [[WPU]]
+[[Laravel 8 CRUD]]

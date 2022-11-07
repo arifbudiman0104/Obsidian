@@ -34,13 +34,16 @@ php artisan serve
 
 # TALL (Tailwind, Alpine.js,Laravel, Livewire)
 ![[FP TALL.png]]
-
-[Frontend Preset TALL Github](https://github.com/laravel-frontend-presets/tall)
-
 -   [Tailwind CSS](https://tailwindcss.com/)
 -   [Alpine.js](https://alpinejs.dev/)
 -   [Laravel](https://laravel.com/)
--   [Livewire](https://laravel-livewire.com/)
+-   [[Livewire]]
+
+[Frontend Preset TALL Github](https://github.com/laravel-frontend-presets/tall)
+
+
+
+
 
 ## Preset without Auth
 

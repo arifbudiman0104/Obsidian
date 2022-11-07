@@ -1,5 +1,10 @@
 #windows #readme 
 # Windows
 
-[[Application]]
+## App Settings
+
 [[Terminal]]
+[[VSCode]]
+
+[[App List]]
+

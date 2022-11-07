@@ -8,38 +8,38 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Laravel",
+      "query": "tag:#readme",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16777215
       }
     },
     {
-      "query": "path:Windows",
+      "query": "path:Laravel",
       "color": {
         "a": 1,
-        "rgb": 52479
+        "rgb": 13369344
       }
     },
     {
       "query": "path:Thesis",
       "color": {
         "a": 1,
-        "rgb": 14810880
+        "rgb": 65493
+      }
+    },
+    {
+      "query": "path:Windows",
+      "color": {
+        "a": 1,
+        "rgb": 43775
       }
     },
     {
       "query": "path:WSL",
       "color": {
         "a": 1,
-        "rgb": 16639
-      }
-    },
-    {
-      "query": "file:readme",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
+        "rgb": 4718832
       }
     }
   ],
@@ -50,8 +50,8 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 11.09375,
-  "linkStrength": 0.8984375,
+  "repelStrength": 10,
+  "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.7069023997743992,
   "close": false
