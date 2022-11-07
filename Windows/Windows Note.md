@@ -23,11 +23,11 @@ TABLE file.mtime as "Last Modified" FROM "Windows/App Settings"
 
 ## Code
 - [x] [[VSCode]]
-- [x] [Git](https://git-scm.com/downloads)
+- [x] [[Terminal]]
 - [x] [[Laragon]]
+- [x] [Git](https://git-scm.com/downloads)
 - [x] [PHP](https://www.php.net/downloads.php)
 - [x] [Node.js](https://nodejs.org/en/download/)
-- [x] [[Terminal]]
 - [x] [Powershell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.2)
 
 ## Graphic Desain & Photo Editor
