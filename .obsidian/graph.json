@@ -1,17 +1,17 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
-  "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#readme",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 16514816
       }
     },
     {
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8410179675191086,
+  "scale": 0.47888815587391453,
   "close": true
 }

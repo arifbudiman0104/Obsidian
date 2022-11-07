@@ -3,13 +3,12 @@
 
 ## App Settings
 
-[[Laragon]]
+```dataview
+TABLE file.mtime as "Last Modified" FROM "Windows/App Settings"
+```
 
-[[Terminal]]
+# Windows App List
 
-[[VSCode]]
-
-# App List
 ## VirtualBox & Operating System
 - [x] [Windows](https://www.microsoft.com/software-download/windows11)
 - [x] [WSL (Windows Subsystem for Linux)](https://learn.microsoft.com/en-us/windows/wsl/install) [[WSL Note]]
@@ -82,64 +81,77 @@
 - [x] [scrcpy](https://github.com/Genymobile/scrcpy)
 - [x] [sndcpy](https://github.com/rom1v/sndcpy)
 
-## Android Apps
+# Android App List
+
+## System Untility
 - [x] Ampere
 - [x] Battery Charged Alarm
-- [x] BRImo
-- [x] Bukalapak
-- [x] GCAM
-- [x] Discord
-- [x] Drive
-- [x] Edge
-- [x] Figma
+- [x] Medium
 - [x] Files
 - [x] Gallery 
-- [x] Github
-- [x] Gmail
-- [x] Gojek
 - [x] IDM+
-- [x] Instagram
 - [x] Internet Speed Meter
-- [x] Lens 
-- [x] Lightroom
-- [x] Maps
-- [x] Medium
-- [x] Meet
+- [x] One Click Lock Screen
+- [x] RAR
+- [x] Snapdrop
+- [x] Speedtest
+
+## E-Money & Shop
+- [x] BRImo
+- [x] Bukalapak
+- [x] Tokopedia
+- [x] Gojek
 - [x] MyTelkomsel
 - [x] myXl
+- [x] PayPal
+
+## Social Media
+- [x] Discord
+- [x] WhatsApp
+- [x] Instagram
+- [x] Telegram
+- [x] Twitch
+- [x] Twitter
+
+## Productivity 
+- [x] Drive
+- [x] Gmail
+- [x] Edge
+- [x] Lens 
 - [x] Notion
 - [x] Office
 - [x] OneDrive
 - [x] OneNote
-- [x] One Click Lock Screen
 - [x] Outlook
-- [x] PayPal
-- [x] PeduliLindugi
-- [x] Photos
-- [x] Pix Wallpaper
-- [x] Play Books
-- [x] Play Games
-- [x] Play Store
-- [x] Podcasts
-- [x] RAR
-- [x] Recorder
-- [x] Resplash
-- [x] Snapdrop
-- [x] Speedtest
-- [x] Spotify
+- [x] Maps
 - [x] Teams
-- [x] Telegram
 - [x] To Do
-- [x] Tokopedia
 - [x] Translate
-- [x] Twitch
-- [x] Twitter
+- [x] Meet
+
+## Multimedia
+- [x] Spotify
+- [x] Podcasts
 - [x] Vanced
 - [x] VLC
 - [x] Wavelet
-- [x] WhatsApp
 - [x] Youtube Vanced
 - [x] Youtube Studio
+
+## Healty
+- [x] PeduliLindugi
+
+## Photo & Editing
+- [x] GCAM
+- [x] Figma
+- [x] Lightroom
+- [x] Photos
+- [x] Pix Wallpaper
+- [x] Resplash
+
+## Coding & Books
+- [x] Github
+- [x] Play Books
 
 ## Android Games
 - [x] 1010!
@@ -147,3 +159,4 @@
 - [x] Spike Stats
 - [x] Vainglory
 - [x] Wild Rift
+- [x] Play Games

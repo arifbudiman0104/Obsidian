@@ -1,4 +1,5 @@
 #laravel #app 
 # Installation
-[[Laragon]]
-[[VSCode]]
+
+![[Laragon]]
+![[VSCode]]

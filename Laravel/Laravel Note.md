@@ -1,26 +1,20 @@
 #laravel #readme  
 # Laravel
-## [[Installation]]
-[[Laragon]]
-
-## System
-[[Controller]]
-[[Env]]
-[[Model]]
+[[Installation]]
 
 ## Package
 
-[[Breeze]]
-[[DOMPDF]]
-[[Excel]]
-[[Frontend Preset]]
-[[Jetstream]]
-[[Livewire]]
-[[UI]]
+```dataview
+TABLE file.mtime as "Last Modified" FROM "Laravel/Package"
+```
 
-## VS Code
-[[VSCode]]
+## System
+
+```dataview
+TABLE file.mtime as "Last Modified" FROM "Laravel/System"
+```
 
 ## Tutorial
-[[WPU]]
-[[Laravel 8 CRUD]]
+```dataview
+TABLE file.mtime as "Last Modified" FROM "Laravel/Tutorials"
+```
