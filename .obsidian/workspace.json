@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Package/Breeze.md",
-                "mode": "preview",
+                "file": "Windows/Windows Note.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "d8fe3bb71cd8bbe8",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Laravel/Package/Breeze.md"
+                "file": "Windows/Windows Note.md"
               }
             }
           },
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/Package/Breeze.md",
+                "file": "Windows/Windows Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Package/Breeze.md",
+                "file": "Windows/Windows Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -155,6 +156,7 @@
   },
   "active": "7dd2b39185b082be",
   "lastOpenFiles": [
+    "Laravel/Package/Breeze.md",
     "Timeline.md",
     "Laravel/Tutorials/Laravel 8 CRUD.md",
     "Laravel/Tutorials/WPU.md",
@@ -163,7 +165,6 @@
     "Laravel/System/Model.md",
     "Laravel/System/Env.md",
     "Laravel/System/Controller.md",
-    "Laravel/Package/Breeze.md",
     "Laravel/Laravel Note.md"
   ]
 }

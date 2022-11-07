@@ -93,10 +93,12 @@
 - [x] Edge
 - [x] Figma
 - [x] Files
-- [x] Gallery Github
+- [x] Gallery 
+- [x] Github
 - [x] Gmail
 - [x] Gojek
-- [x] IDM+ Instagram
+- [x] IDM+
+- [x] Instagram
 - [x] Internet Speed Meter
 - [x] Lens 
 - [x] Lightroom
