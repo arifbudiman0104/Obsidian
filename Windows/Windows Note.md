@@ -8,10 +8,11 @@
 [[VSCode]]
 
 # App List
-## Operating System
+## VirtualBox & Operating System
 - [x] [Windows](https://www.microsoft.com/software-download/windows11)
 - [x] [WSL (Windows Subsystem for Linux)](https://learn.microsoft.com/en-us/windows/wsl/install) [[WSL Note]]
 - [x] [WSA (Windows Subsystem for Android)](https://github.com/WSA-Community/WSAGAScript)
+- [x] [Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - [ ] [Ubuntu](https://ubuntu.com/download)
 - [ ] [Elementary OS](https://elementary.io/)
 
@@ -56,6 +57,7 @@
 - [x] [PowerToys](https://github.com/microsoft/PowerToys)
 - [x] [7Zip](https://www.7-zip.org/)
 - [x] [WinDirStat](https://windirstat.net/)
+- [x] Synaptic Windows Precision Driver
 
 ## Music & Movie
 - [x] [Media Player Classic](https://codecguide.com/download_k-lite_codec_pack_mega.htm)
