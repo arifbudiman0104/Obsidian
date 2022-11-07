@@ -4,23 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "c076090df2c1a5f6",
+        "id": "e55ff4b7a34cff19",
         "type": "tabs",
         "children": [
           {
-            "id": "18bbcc4dbb7d06b4",
+            "id": "46b8346b72bfa2fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laravel/Installation/Laragon.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6b62ef4b1923107",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Readme.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9ea83c6321e24d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laravel/Package/Breeze.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "806b4b1181ed7392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laravel/Package/Frontend Preset.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -30,8 +70,24 @@
     "type": "split",
     "children": [
       {
+        "id": "98f6ee5bd8597ed9",
+        "type": "tabs",
+        "dimension": 25.872093023255815,
+        "children": [
+          {
+            "id": "63072d9f523cc662",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "5945797aec93b1c1",
         "type": "tabs",
+        "dimension": 74.12790697674419,
         "children": [
           {
             "id": "837c0cb47d6d254d",
@@ -57,20 +113,13 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "63072d9f523cc662",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 294.5,
+    "collapsed": true
   },
   "right": {
     "id": "d8fe3bb71cd8bbe8",
@@ -151,19 +200,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 361.5
   },
-  "active": "18bbcc4dbb7d06b4",
+  "active": "e6b62ef4b1923107",
   "lastOpenFiles": [
-    "Laravel/Package/UI.md",
-    "Laravel/Package/Livewire.md",
-    "Laravel/Package/Jetstream.md",
-    "Laravel/Package/Excel.md",
-    "Laravel/Package/Frontend Preset.md",
-    "Laravel/Package/DOMPDF.md",
-    "Laravel/Package/Breeze.md",
     "Laravel/Installation/Laragon.md",
-    "Laravel/Package/Thumbnail/Breeze.png",
-    "Laravel/Package/Thumbnail/Jetstream.png"
+    "Laravel/Laravel Note.md",
+    "Laravel/Package/Breeze.md",
+    "Laravel/Package/Frontend Preset.md",
+    "Windows/Windows Note.md",
+    "WSL/WSL Note.md",
+    "Thesis/Thesis Note.md",
+    "PKW/Kelas B.md",
+    "PKW/Materi/Materi 3.md",
+    "PKW/Materi/Materi 1.md"
   ]
 }

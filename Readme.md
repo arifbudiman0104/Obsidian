@@ -10,6 +10,11 @@ This is Arif Budiman Arrosyid personal note, made with Obsidian.
 ## Shortcut
 - `Ctrl + P` (open Obsidian command)
 - `Ctrl + E` (open or close edit mode)
+- `Ctrl + Shift + E` (open or close left sidebar)
+- `Ctrl + Shift + R` (open or close right sidebar)
+- `Ctrl + Shift + G` (open or close Git sidebar)
 - `Ctrl + O` (open Quick Switcher)
+- `Ctrl + Shift + O` (open Outline Content)
 - `Ctrl + N` (make new note)
-- `>` (open markdown shortcut)
+- `>` or `Shift + .` (open markdown shortcut)
+
