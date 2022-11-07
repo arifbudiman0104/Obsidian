@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "indonesia",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7069023997743992,
-  "close": false
+  "scale": 0.8410179675191086,
+  "close": true
 }
