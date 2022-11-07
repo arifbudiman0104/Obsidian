@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabReadme",
       "FarImages",
       "RiMicrosoftLine",
       "FarFilePdf",
-      "FasFilePdf",
-      "SiLaravel"
+      "FasFilePdf"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,9 @@
   "Laravel/Package/Thumbnail": "FarImages",
   "Laravel/Tutorials/Thumbnail": "FarImages",
   "Laravel/Tutorials/Image": "FarImages",
-  "Windows/App Settings/Thumbnail": "FarImages"
+  "Windows/App Settings/Thumbnail": "FarImages",
+  "Readme.md": "FabReadme",
+  "WSL/WSL Note.md": "FabReadme",
+  "Windows/Windows Note.md": "FabReadme",
+  "Laravel/Laravel Note.md": "FabReadme"
 }

@@ -112,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Laravel/Installation.md"
+              }
             }
           },
           {
@@ -129,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Laravel/Installation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Laravel/Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
