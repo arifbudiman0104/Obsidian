@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b71ccd5fc46690e3",
+        "id": "92058f814fe6366a",
         "type": "tabs",
         "children": [
           {
-            "id": "48c2d5bbb4944900",
+            "id": "7b4d5f3cb813437c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Package/Breeze.md",
-                "mode": "preview",
+                "file": "Laravel/System/Controller.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Laravel/Package/Breeze.md",
+            "file": "Laravel/System/Controller.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Laravel/Package/Breeze.md",
+            "file": "Laravel/System/Controller.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,16 +115,19 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Laravel/Package/Breeze.md"
+            "file": "Laravel/System/Controller.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "48c2d5bbb4944900",
+  "active": "7b4d5f3cb813437c",
   "lastOpenFiles": [
+    "Laravel/System/Test.md",
+    "Laravel/System/Env.md",
     "Laravel/System/Controller.md",
+    "Laravel/Package/Breeze.md",
     "Exported/Installation.pdf",
     "Laravel/Laravel Note.md"
   ]

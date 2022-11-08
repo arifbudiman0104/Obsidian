@@ -11,13 +11,8 @@
             "id": "47909e1fa37757b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Laravel/System/Controller.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Laravel/System/Controller.md"
-              }
+              "state": {}
             }
           },
           {
@@ -104,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/System/Controller.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/System/Controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -167,8 +158,9 @@
     "direction": "horizontal",
     "width": 361.5
   },
-  "active": "47909e1fa37757b2",
+  "active": "837c0cb47d6d254d",
   "lastOpenFiles": [
+    "Laravel/System/Controller.md",
     "Windows/App Settings/Laragon.md",
     "Windows/Windows Note.md",
     "Readme.md",
@@ -177,7 +169,6 @@
     "Laravel/Installation.md",
     "Laravel/Tutorials/Laravel 8 CRUD.md",
     "Windows/App Settings/VSCode.md",
-    "Windows/App Settings/Terminal.md",
-    "Laravel/System/Model.md"
+    "Windows/App Settings/Terminal.md"
   ]
 }
