@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "8883b42de87716e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b71ccd5fc46690e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48c2d5bbb4944900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laravel/Package/Breeze.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "075f7551edc042f7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c97aef5e6dac540f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1e2c863839c95bf8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b0e9fa46747f9e1c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2bcdf7c894bd59f4",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "297ed27dd658a7d4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f5e08453832734df",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Laravel/Package/Breeze.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6661d20c8de5c199",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Laravel/Package/Breeze.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b7c6ede6c18654f4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Laravel/Package/Breeze.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "48c2d5bbb4944900",
+  "lastOpenFiles": [
+    "Laravel/System/Controller.md",
+    "Exported/Installation.pdf",
+    "Laravel/Laravel Note.md"
+  ]
+}
