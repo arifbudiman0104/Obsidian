@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "aa2f44d871fef9ac",
+        "id": "03f2521af134b89b",
         "type": "tabs",
         "children": [
           {
-            "id": "47909e1fa37757b2",
+            "id": "ceb01fd7fb2b8abb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Laravel/Laravel Note.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Laravel/Laravel Note.md"
+              }
             }
           },
           {
@@ -97,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Laravel/Laravel Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Laravel/Laravel Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,17 +167,17 @@
     "direction": "horizontal",
     "width": 361.5
   },
-  "active": "837c0cb47d6d254d",
+  "active": "ceb01fd7fb2b8abb",
   "lastOpenFiles": [
+    "Laravel/Laravel Note.md",
+    "Windows/Windows Note.md",
+    "Laravel/System/Test.md",
     "Laravel/System/Controller.md",
     "Windows/App Settings/Laragon.md",
-    "Windows/Windows Note.md",
     "Readme.md",
     "Exported/Installation.pdf",
-    "Laravel/Laravel Note.md",
     "Laravel/Installation.md",
     "Laravel/Tutorials/Laravel 8 CRUD.md",
-    "Windows/App Settings/VSCode.md",
-    "Windows/App Settings/Terminal.md"
+    "Windows/App Settings/VSCode.md"
   ]
 }
