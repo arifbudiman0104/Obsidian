@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/Windows Note.md",
-                "mode": "preview",
+                "file": "Laravel/System/Controller.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/Windows Note.md"
+                "file": "Laravel/System/Controller.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/Windows Note.md",
+                "file": "Laravel/System/Controller.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/Windows Note.md",
+                "file": "Laravel/System/Controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -169,14 +169,14 @@
   },
   "active": "47909e1fa37757b2",
   "lastOpenFiles": [
+    "Windows/App Settings/Laragon.md",
+    "Windows/Windows Note.md",
     "Readme.md",
     "Exported/Installation.pdf",
     "Laravel/Laravel Note.md",
     "Laravel/Installation.md",
     "Laravel/Tutorials/Laravel 8 CRUD.md",
-    "Windows/App Settings/Laragon.md",
     "Windows/App Settings/VSCode.md",
-    "Windows/Windows Note.md",
     "Windows/App Settings/Terminal.md",
     "Laravel/System/Model.md"
   ]
