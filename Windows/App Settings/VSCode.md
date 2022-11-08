@@ -1,4 +1,4 @@
-#laravel #vscode #app #windows 
+#laravel #vscode #app #windows
 # VSCode
 
 ![[VSCode.png]]

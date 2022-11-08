@@ -1,2 +1,2 @@
-#laravel
+#laravel #view
 # Laravel View

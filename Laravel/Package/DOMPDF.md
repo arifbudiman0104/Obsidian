@@ -1,4 +1,4 @@
-#laravel #laravelexport #laravelpackage
+#laravel #export #package
 # Laravel DOMPDF
 ![[DOMPDF.png]]
 

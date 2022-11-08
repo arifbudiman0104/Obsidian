@@ -1,4 +1,4 @@
-#laravel #laravelauth #laravelpackage
+#laravel #auth #package 
 # Laravel Breeze
 
 ![[Breeze.png]]

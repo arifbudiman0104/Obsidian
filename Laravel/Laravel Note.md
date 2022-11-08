@@ -5,7 +5,7 @@
 ## Package
 
 ```dataview
-TABLE file.mtime as "Last Modified" FROM "Laravel/Package"
+TABLE tags, file.mtime as "Last Modified" FROM "Laravel/Package"
 ```
 
 ## System
