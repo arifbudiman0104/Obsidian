@@ -1,4 +1,7 @@
-#laravel #auth #package 
+---
+tags: laravel, auth, package, livewire, tailwind
+---
+
 # Laravel Frontend Preset
 ![[Frontend Preset.png]]
 [Laravel Frontend Preset Github](https://github.com/laravel-frontend-presets)

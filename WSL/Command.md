@@ -1,3 +1,6 @@
-#wsl
+---
+tags: wsl
+---
+
 # WSL Command
 

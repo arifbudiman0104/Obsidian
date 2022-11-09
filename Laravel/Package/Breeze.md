@@ -1,4 +1,7 @@
-#laravel #auth #package 
+---
+tags: laravel, auth, package, tailwind
+---
+
 # Laravel Breeze
 
 ![[Breeze.png]]
@@ -37,8 +40,6 @@ php artisan breeze:install react --ssr
 // if want to instal with vue or react use SSR (Server Side Rendering) and SPA (Single Page App)
 
 php artisan migrate
-
 npm install
-
 npm run dev 
 ```

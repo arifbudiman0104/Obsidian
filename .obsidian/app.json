@@ -6,10 +6,10 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "livePreview": true,
+  "livePreview": false,
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "showFrontmatter": true,
   "showLineNumber": true,
   "readableLineLength": true,
@@ -20,5 +20,10 @@
   "defaultViewMode": "preview",
   "foldHeading": true,
   "showIndentGuide": false,
-  "foldIndent": true
+  "foldIndent": true,
+  "spellcheck": false,
+  "spellcheckLanguages": [
+    "id",
+    "en-US"
+  ]
 }

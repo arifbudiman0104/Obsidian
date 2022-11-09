@@ -1,4 +1,7 @@
-#laravel #route
+---
+tags: laravel, route
+---
+
 # Laravel Route
 
 

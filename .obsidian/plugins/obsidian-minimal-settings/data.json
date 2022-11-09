@@ -4,7 +4,7 @@
   "darkStyle": "minimal-dark",
   "lightScheme": "minimal-things-light",
   "darkScheme": "minimal-things-dark",
-  "editorFont": "Cascadia Mono",
+  "editorFont": "Inter",
   "lineHeight": 2,
   "lineWidth": 40,
   "lineWidthWide": 50,

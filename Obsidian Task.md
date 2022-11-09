@@ -1,8 +1,13 @@
 ---
 
 kanban-plugin: basic
+tags: obsidian, task
 
 ---
+
+## Idea
+
+
 
 ## Task
 
@@ -19,27 +24,22 @@ kanban-plugin: basic
 - [ ] Laravel [[Model]]
 - [ ] Laravel [[Route]]
 - [ ] Laravel [[Seeder]]
-- [ ] Laravel [[Storage Link]]
 - [ ] Laravel [[UI]]
 - [ ] Laravel [[View]]
-- [ ] [[Terminal]] App Setting
 - [ ] Tutorial [[WPU]]
-- [ ] WSL [[Command]]
+
+
+## In Progress
+
+- [ ] [[Terminal]] App Setting
 
 
 ## Pending
 
+- [ ] WSL [[Command]]
 
 
-## Documented
-
-
-
-## Tested
-
-
-
-## Complete
+## Completed
 
 **Complete**
 - [x] [[Laragon]] App Setting
@@ -47,6 +47,7 @@ kanban-plugin: basic
 - [x] Laravel [[Frontend Preset]]
 - [x] Laravel [[Installation]]
 - [x] Laravel [[Jetstream]]
+- [x] Laravel [[Storage Link]]
 - [x] Tutorial [[Laravel 8 CRUD]]
 - [x] [[VSCode]] App Setting
 
@@ -55,6 +56,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","new-card-insertion-method":"prepend","hide-card-count":false,"show-checkboxes":false,"hide-tags-in-title":true,"show-relative-date":true,"hide-date-display":false,"hide-date-in-title":true,"date-display-format":"DD-MM-YYYY"}
+{"kanban-plugin":"basic","new-card-insertion-method":"prepend-compact","hide-card-count":false,"show-checkboxes":false,"hide-tags-in-title":true,"show-relative-date":true,"hide-date-display":false,"hide-date-in-title":true,"date-display-format":"DD-MM-YYYY"}
 ```
 %%

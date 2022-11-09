@@ -1,4 +1,7 @@
-#laravel #vscode #app #windows
+---
+tags: laravel, vscode, app, windows
+---
+
 # VSCode
 
 ![[VSCode.png]]
@@ -66,3 +69,8 @@ Download from [Microsoft Store](https://apps.microsoft.com/store/detail/XP9KHM4B
 - [Parsinta](https://marketplace.visualstudio.com/items?itemName=Parsinta.parsinta-exclusive)
 ## File Theme
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+## Activate Command `Code .` in Terminal
+- Open VSCode
+- Click `Ctrl + Shift + P`
+- Type `Shell`
+- Select `Shell Command: Install 'code' command in PATH`

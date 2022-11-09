@@ -1,4 +1,7 @@
-#laravel #readme  
+---
+tags: laravel, readme
+---
+
 # Laravel
 [[Installation]]
 
@@ -11,10 +14,10 @@ TABLE tags, file.mtime as "Last Modified" FROM "Laravel/Package"
 ## System
 
 ```dataview
-TABLE file.mtime as "Last Modified" FROM "Laravel/System"
+TABLE tags, file.mtime as "Last Modified" FROM "Laravel/System"
 ```
 
 ## Tutorial
 ```dataview
-TABLE file.mtime as "Last Modified" FROM "Laravel/Tutorials"
+TABLE tags, file.mtime as "Last Modified" FROM "Laravel/Tutorials"
 ```

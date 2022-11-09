@@ -1,10 +1,13 @@
-#windows #readme #app 
+---
+tags: windows, readme, app
+---
+
 # Windows
 
 ## App Settings
 
 ```dataview
-TABLE file.mtime as "Last Modified" FROM "Windows/App Settings"
+TABLE tags, file.mtime as "Last Modified" FROM "Windows/App Settings"
 ```
 
 # Windows App List

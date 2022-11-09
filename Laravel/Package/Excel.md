@@ -1,4 +1,7 @@
-#laravel #export #package
+---
+tags: laravel, export, package
+---
+
 # Laravel Excel
 ![[Excel.png]]
 

@@ -1,4 +1,7 @@
-#readme #obsidian 
+---
+tags: readme, obsidian
+---
+
 # Readme
 
 This is a Learning Note by Arif, made with Obsidian.
@@ -10,6 +13,22 @@ This is a Learning Note by Arif, made with Obsidian.
 ## Font
 - Inter (used for interface and text view mode)
 - Cascadia Mono (used for text edit mode and code block)
+## Tips
+- `[[]]` make internal link
+- `![[]]` make embed internal link
+- `[]()` make external link
+
+```ad-important
+
+
+```
+
+```ad-help
+
+```
+
+
+
 
 ## Shortcut
 - `Ctrl + P` (open obsidian command)

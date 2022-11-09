@@ -1,2 +1,5 @@
-#laravel #db #factories
+---
+tags: laravel, db, factories
+---
+
 # Laravel Factories

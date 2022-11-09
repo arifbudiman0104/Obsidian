@@ -1,3 +1,6 @@
-#laravel #controller 
+---
+tags: laravel, controller
+---
+
 # Laravel Controller
 

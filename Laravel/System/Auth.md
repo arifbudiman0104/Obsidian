@@ -1,2 +1,5 @@
-#laravel #auth 
+---
+tags: laravel, auth
+---
+
 # Laravel Auth

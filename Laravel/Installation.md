@@ -1,4 +1,6 @@
-#laravel #app 
+---
+tags: laravel, app, vscode
+---
 # Installation
 
 ![[Laragon]]

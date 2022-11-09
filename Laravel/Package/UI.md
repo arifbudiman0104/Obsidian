@@ -1,4 +1,7 @@
-#laravel #auth #package 
+---
+tags: laravel, auth, package, bootstrap, vue, react
+---
+
 # Laravel UI
 ![[UI.png]]
 

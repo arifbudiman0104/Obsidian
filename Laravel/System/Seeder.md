@@ -1,3 +1,6 @@
-#laravel #db #seeder
+---
+tags: laravel, db, seeder
+---
+
 # Laravel Seeder
 

@@ -1,4 +1,7 @@
-#laravel #auth #package 
+---
+tags: laravel, auth, package, tailwind
+---
+
 # Laravel Jetstream
 ![[Jetstream.png]]
 

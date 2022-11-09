@@ -1,3 +1,6 @@
-#laravel #migration
+---
+tags: laravel, migration
+---
+
 # Laravel Migration
 

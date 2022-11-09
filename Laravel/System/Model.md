@@ -1,2 +1,5 @@
-#laravel #model 
+---
+tags: laravel, model
+---
+
 # Laravel Model

@@ -1,2 +1,5 @@
-#laravel #view
+---
+tags: laravel, view
+---
+
 # Laravel View
