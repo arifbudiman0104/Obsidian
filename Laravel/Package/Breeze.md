@@ -7,6 +7,7 @@ Breeze provides a minimal and simple starting point for building a Laravel appli
 Laravel Breeze is powered by Blade and Tailwind. If you're looking for a more robust Laravel starter kit that includes two factor authentication, Livewire / Inertia support, and more, check out [Laravel Jetstream](https://jetstream.laravel.com/).
 
 [Laravel Breeze Documentation](https://laravel.com/docs/9.x/starter-kits)
+
 [Laravel Breeze Github](https://github.com/laravel/breeze)
 
 ## Install for Vite

@@ -2,7 +2,9 @@
 ![[Laragon.png]]
 
 [Laragon Documentation](https://laragon.org/docs/install.html)
+
 [Laragon Github](https://github.com/leokhoa/laragon)
+
 Download from [Web](https://laragon.org/download/) or [Github Release](https://github.com/leokhoa/laragon/releases)
 
 ## Installation

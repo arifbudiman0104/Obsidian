@@ -2,9 +2,11 @@
 
 ## App Settings
 
-```dataview
-TABLE tags, file.mtime as "Last Modified" FROM "Windows/App Settings"
-```
+[[Laragon]] #complete
+
+[[Terminal]]
+
+[[VSCode]] #complete
 
 # Windows App List
 

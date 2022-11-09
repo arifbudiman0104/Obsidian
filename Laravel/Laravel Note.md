@@ -1,14 +1,16 @@
 # Laravel
-[[Installation]]
 
+[[Create Project]]
+
+[[Installation]] #complete
 ## Package
-- [[Breeze]]
+- [[Breeze]] #complete
 - [[DOMPDF]]
-- [[Excel]]
-- [[Frontend Preset]]
-- [[Jetstream]]
+- [[Excel]] #complete
+- [[Frontend Preset]] #complete
+- [[Jetstream]] #complete
 - [[Livewire]]
-- [[UI]]
+- [[UI]] #complete
 
 ## System
 - [[Auth]]
@@ -21,10 +23,10 @@
 - [[Model]]
 - [[Route]]
 - [[Seeder]]
-- [[Storage Link]]
+- [[Storage Link]] #complete
 - [[View]]
 
 ## Tutorial
 - [[Chirper]]
-- [[Laravel 8 CRUD]]
+- [[Laravel 8 CRUD]] #complete
 - [[WPU]]
