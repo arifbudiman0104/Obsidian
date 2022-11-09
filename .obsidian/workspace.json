@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows/App/VSCode.md",
+                "file": "Templates/Shell.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows/App/VSCode.md"
+                "file": "Templates/Shell.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows/App/VSCode.md",
+                "file": "Templates/Shell.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows/App/VSCode.md",
+                "file": "Templates/Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,17 +175,17 @@
     "direction": "horizontal",
     "width": 361.5
   },
-  "active": "36152950bc9fdf06",
+  "active": "35c4f4e8d3b7b06e",
   "lastOpenFiles": [
-    "Windows/App/Terminal.md",
-    "Windows/App/Laragon.md",
+    "Templates/PHP.md",
     "Templates/Shell.md",
+    "Templates/Note.md",
     "Templates/JSON.md",
     "Templates/HTML.md",
-    "Templates/Note.md",
-    "Templates/PHP.md",
     "Templates/Document.md",
-    "Laravel/Laravel Note.md",
-    "Laravel/Installation.md"
+    "Laravel/Tutorials/WPU.md",
+    "Laravel/Tutorials/Laravel 8 CRUD.md",
+    "Windows/App/VSCode.md",
+    "Windows/App/Terminal.md"
   ]
 }

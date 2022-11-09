@@ -17,13 +17,21 @@ DB_PASSWORD=                #kosongkan kalau tidak ada password
 
 ## Membuat Model, Migration, Controller dan Factory
 Membuat Model dan Migration dengan perintah berikut:
+
 `php artisan make:model Mahasiswa -m` membuat model dan migration
+
 `php artisan make:controller MahasiswaController` membuat controller
+
 `php artisan make:factory MahasiswaFactory` membuat factory
+
 akan ada 4 file baru pada:
+
 `database\migrations\2022_09_20_073456_create_mahasiswas_table.php`
+
 `app\Models\Mahasiswa.php`
+
 `app\Http\Controllers\MahasiswaController.php`
+
 `database\factories\MahasiswaFactory.php`
 
 ![[laravel8crud2.png]]
@@ -258,7 +266,7 @@ class MahasiswaController extends Controller
 
 Membuat index.blade.php di folder view/mahasiswa
 
-```php
+```html
 </html>
 <!DOCTYPE html>
 <html lang="en">
@@ -325,7 +333,7 @@ Membuat index.blade.php di folder view/mahasiswa
 
 Membuat create.blade.php di folder view/mahasiswa
 
-```php
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -394,7 +402,7 @@ Membuat create.blade.php di folder view/mahasiswa
 
 Membuat edit.blade.php di folder view/mahasiswa
 
-```php
+```html
 <!DOCTYPE html>
 <html lang="en">
 
