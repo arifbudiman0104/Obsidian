@@ -1,7 +1,3 @@
----
-tags: laravel, export, package
----
-
 # Laravel DOMPDF
 ![[DOMPDF.png]]
 

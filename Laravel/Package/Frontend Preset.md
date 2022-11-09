@@ -1,7 +1,3 @@
----
-tags: laravel, auth, package, livewire, tailwind
----
-
 # Laravel Frontend Preset
 ![[Frontend Preset.png]]
 [Laravel Frontend Preset Github](https://github.com/laravel-frontend-presets)
@@ -11,19 +7,19 @@ tags: laravel, auth, package, livewire, tailwind
 
 [Frontend Preset Tailwind Github](https://github.com/laravel-frontend-presets/tailwindcss)
 
-```php
+```shell
 composer require laravel-frontend-presets/tailwindcss --dev 
 ```
 
 ## Preset without Auth
 
-```php
+```shell
 php artisan ui tailwindcss
 ```
 
 ## Preset with Auth
 
-```php
+```shell
 php artisan ui tailwindcss --auth
 npm install && npm run dev
 php artisan migrate
@@ -43,7 +39,7 @@ php artisan serve
 
 ## Preset without Auth
 
-```php
+```shell
 composer require livewire/livewire laravel-frontend-presets/tall
 php artisan ui tall
 npm install
@@ -52,7 +48,7 @@ npm run dev
 
 ## Preset withAuth
 
-```php
+```shell
 composer require livewire/livewire laravel-frontend-presets/tall
 php artisan ui tall --auth
 npm install

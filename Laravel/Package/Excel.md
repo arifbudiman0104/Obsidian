@@ -1,7 +1,3 @@
----
-tags: laravel, export, package
----
-
 # Laravel Excel
 ![[Excel.png]]
 
@@ -9,17 +5,19 @@ tags: laravel, export, package
 
 # Installation
 
-```php
+For Laravel 8
+````shell
 composer require maatwebsite/excel
-//for laravel <=8
+````
 
+Laravel 9
+````shell
 composer require psr/simple-cache:^2.0 maatwebsite/excel
-// for laravel 9
-```
+````
 
 # Publish Config
 
-```php
+```shell
 php artisan vendor:publish --provider="Maatwebsite\Excel\ExcelServiceProvider" --tag=config
 ```
 

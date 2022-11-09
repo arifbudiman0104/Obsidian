@@ -1,23 +1,30 @@
----
-tags: laravel, readme
----
-
 # Laravel
 [[Installation]]
 
 ## Package
-
-```dataview
-TABLE tags, file.mtime as "Last Modified" FROM "Laravel/Package"
-```
+- [[Breeze]]
+- [[DOMPDF]]
+- [[Excel]]
+- [[Frontend Preset]]
+- [[Jetstream]]
+- [[Livewire]]
+- [[UI]]
 
 ## System
-
-```dataview
-TABLE tags, file.mtime as "Last Modified" FROM "Laravel/System"
-```
+- [[Auth]]
+- [[Controller]]
+- [[Env]]
+- [[Factories]]
+- [[Faker]]
+- [[Middleware]]
+- [[Migration]]
+- [[Model]]
+- [[Route]]
+- [[Seeder]]
+- [[Storage Link]]
+- [[View]]
 
 ## Tutorial
-```dataview
-TABLE tags, file.mtime as "Last Modified" FROM "Laravel/Tutorials"
-```
+- [[Chirper]]
+- [[Laravel 8 CRUD]]
+- [[WPU]]

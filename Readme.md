@@ -1,7 +1,3 @@
----
-tags: readme, obsidian
----
-
 # Readme
 
 This is a Learning Note by Arif, made with Obsidian.
@@ -18,18 +14,6 @@ This is a Learning Note by Arif, made with Obsidian.
 - `![[]]` make embed internal link
 - `[]()` make external link
 
-```ad-important
-
-
-```
-
-```ad-help
-
-```
-
-
-
-
 ## Shortcut
 - `Ctrl + P` (open obsidian command)
 - `Ctrl + E` (open or close edit mode)
@@ -40,4 +24,4 @@ This is a Learning Note by Arif, made with Obsidian.
 - `Ctrl + Shift + O` (open outline content)
 - `Ctrl + N` (make new note)
 - `>` or `Shift + .` (open markdown shortcut)
-
+- `Ctrl + Shift + I` (insert template)

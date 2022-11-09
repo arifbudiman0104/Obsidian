@@ -1,7 +1,3 @@
----
-tags: laravel, auth, package, tailwind
----
-
 # Laravel Breeze
 
 ![[Breeze.png]]
@@ -13,33 +9,44 @@ Laravel Breeze is powered by Blade and Tailwind. If you're looking for a more ro
 [Laravel Breeze Documentation](https://laravel.com/docs/9.x/starter-kits)
 [Laravel Breeze Github](https://github.com/laravel/breeze)
 
-## Vite
+## Install for Vite
 
-```PHP
+```shell
 composer require laravel/breeze --dev 
 ```
 
-## Mix
+## Install for Mix
 
-For Laravel 8
-
-```php
+```shell
 composer require laravel/breeze:1.9.4 
 ```
 
-```php
-php artisan breeze:install
-// default use blade
+default use blade
 
+````shell
+php artisan breeze:install
+````
+
+if want to install with vue or react
+
+````shell
 php artisan breeze:install vue
 php artisan breeze:install react
-// if want to insta with vue or react
+````
 
+if want to instal with vue or react use SSR (Server Side Rendering) and SPA (Single Page App)
+
+````shell
 php artisan breeze:install vue --ssr
 php artisan breeze:install react --ssr
-// if want to instal with vue or react use SSR (Server Side Rendering) and SPA (Single Page App)
+````
 
+## Finishing
+
+````shell
 php artisan migrate
 npm install
 npm run dev 
-```
+````
+
+

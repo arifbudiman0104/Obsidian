@@ -1,7 +1,3 @@
----
-tags: windows, readme, app
----
-
 # Windows
 
 ## App Settings

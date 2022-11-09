@@ -1,7 +1,3 @@
----
-tags: laravel, auth, package, bootstrap, vue, react
----
-
 # Laravel UI
 ![[UI.png]]
 
@@ -9,7 +5,7 @@ While Laravel does not dictate which JavaScript or CSS pre-processors you use, i
 
 [Laravel UI Github](https://github.com/laravel/ui)
 
-```php
+```shell
 composer require laravel/ui
 ```
 
@@ -17,7 +13,7 @@ composer require laravel/ui
 
 ## Without Auth
 
-```php
+```shell
 php artisan ui bootstrap
 
 php artisan ui vue
@@ -27,7 +23,7 @@ php artisan ui react
 
 ## With Auth
 
-```php
+```shell
 php artisan ui bootstrap --auth
 
 php artisan ui vue --auth
@@ -37,7 +33,7 @@ php artisan ui react --auth
 
 ## Finalizing The Installation
 
-```php
+```shell
 npm install
 
 npm run dev

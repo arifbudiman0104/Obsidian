@@ -1,7 +1,3 @@
----
-tags: laravel, auth, package, tailwind
----
-
 # Laravel Jetstream
 ![[Jetstream.png]]
 
@@ -10,22 +6,21 @@ Laravel Jetstream is a beautifully designed application starter kit for Laravel 
 [Laravel Jetstream Documentation](https://jetstream.laravel.com/2.x/introduction.html)
 [Laravel Jetstream Github](https://github.com/laravel/jetstream)
 
-```php
+```shell
 composer require laravel/jetstream
 ```
 
 ## Jetstream with [[Livewire]]
 
-```php
+```shell
 php artisan jetstream:install livewire
 
 php artisan jetstream:install livewire --teams
-// with teams
 ```
 
 ### Publish Livewire Blade Component
 
-```php
+```shell
 php artisan vendor:publish --tag=jetstream-views
 ```
 
@@ -37,14 +32,12 @@ php artisan vendor:publish --tag=jetstream-views
 
 ## Jetstream with Inertia
 
-```php
+```shell
 php artisan jetstream:install inertia
 
 php artisan jetstream:install inertia --teams
-// with teams
 
 php artisan jetstream:install inertia --ssr
-// with SSR support
 ```
 
 ### Customizing Component
@@ -55,13 +48,13 @@ php artisan jetstream:install inertia --ssr
 
 `resources/js/Components/ApplicationMark.vue`
 
-```php
+```shell
 npm run build
 ```
 
 ## Finalizing The Installation
 
-```php
+```shell
 npm install
 
 npm run build

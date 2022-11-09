@@ -1,6 +1,3 @@
----
-tags: laravel, app, windows
----
 # Laragon
 ![[Laragon.png]]
 
@@ -32,29 +29,20 @@ To start the journey with Laragon, just download from [Web](https://laragon.org
 ## Download & Config
 ### Composer Latest
 Download composer.phar [here](https://getcomposer.org/download/)
-Put downloaded composer.phar into 
-```
-C:\laragon\bin\composer
-```
+Put downloaded composer.phar into  `C:\laragon\bin\composer`
 
 ![[laragon1.png]]
 ### phpMyAdmin Latest
 Download phpMyAdmin-XXX.zip [here](https://www.phpmyadmin.net/downloads/)
-Extract, rename folder as `phpMyAdmin` and put folder into
-```
-C:\laragon\etc\apps
-```
+
+Extract, rename folder as `phpMyAdmin` and put folder into `C:\laragon\etc\apps`
 
 ![[laragon2.png]]
 ### Git Latest
 Download Git.exe [here](https://git-scm.com/downloads) and install as usual.
 
 ### PHP 7.4,8.0,8.1 x64 Thread Safe
-Download PHP.zip [here](https://www.php.net/downloads.php) and extract. Put the folder into
-
-```
-C:\laragon\bin\php
-```
+Download PHP.zip [here](https://www.php.net/downloads.php) and extract. Put the folder into `C:\laragon\bin\php`
 
 ![[laragon3.png]]
 and you can change php version like this
@@ -67,10 +55,7 @@ and you can change php version like this
 
 ### Node.js Windows Binary Latest
 Download Node.zip [here](https://nodejs.org/en/download/) and extract. Put the folder into
-
-```
-C:\laragon\bin\nodejs
-```
+`C:\laragon\bin\nodejs`
 
 ![[laragon4.png]]
 and you can change nodejs version like this
@@ -78,11 +63,7 @@ and you can change nodejs version like this
 ### Document Root (Optional)
 - Open Laragon App
 - Click `Menu` > `Preference`
-- Change `Document Root` into
-
-```
-D:\Laravel
-```
+- Change `Document Root` into `D:\Laravel`
 
 ![[laragon5.png]]
 ## Windows Env

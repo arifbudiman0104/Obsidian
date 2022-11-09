@@ -1,11 +1,7 @@
----
-tags: laravel, storagelink
----
-
 # Laravel Storage Link
 Laravel provides a powerful filesystem abstraction thanks to the wonderful [Flysystem](https://github.com/thephpleague/flysystem) PHP package by Frank de Jonge. The Laravel Flysystem integration provides simple drivers for working with local filesystems, SFTP, and Amazon S3. Even better, it's amazingly simple to switch between these storage options between your local development machine and production server as the API remains the same for each system.
 ## Command
-```php
+```shell
 php artisan storage:link
 ```
 

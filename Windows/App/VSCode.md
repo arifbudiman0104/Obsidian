@@ -1,7 +1,3 @@
----
-tags: laravel, vscode, app, windows
----
-
 # VSCode
 
 ![[VSCode.png]]

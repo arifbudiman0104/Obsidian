@@ -1,6 +1,3 @@
----
-tags: laravel, tutorial, crud
----
 # Laravel 8 CRUD Mahasiswa
 ![[Laravel 8 CRUD.png]]
 Membuat Laravel CRUD Mahasiswa tanpa Auth dan tanpa relasi DB
@@ -9,7 +6,7 @@ Membuat Laravel CRUD Mahasiswa tanpa Auth dan tanpa relasi DB
 
 Buat project baru dengan mana project **mahasiswa** dan setup DB pada `.env` sebagai berikut
 
-```php
+```
 APP_URL=http://mahasiswa.test/
 DB_DATABASE=mahasiswa
 DB_USERNAME=root
@@ -127,7 +124,7 @@ class MahasiswaFactory extends Factory
 
 ## Edit DatabaseSeeder
 
-```jsx title="database\seeders\DatabaseSeeder.php"
+```php
 <?php
 
 namespace Database\Seeders;
@@ -255,8 +252,6 @@ class MahasiswaController extends Controller
         return redirect()->route('mahasiswa.index')->with('success', 'Mahasiswa has been deleted successfully');
     }
 }
-
-
 ```
 
 ## index.blade.php
