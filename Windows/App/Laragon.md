@@ -22,7 +22,7 @@ To start the journey with Laragon, just download from [Web](https://laragon.org
 
 ![Setup - Options](https://i.imgur.com/8oZ4N8E.png)
 
-````ad-important
+````ad-note
 - [ ] Run Laragon when Windows starts
 - [x] Auto virtual hosts
 - [x] Add Notepad++ & Terminal to the Right-Click Menu
