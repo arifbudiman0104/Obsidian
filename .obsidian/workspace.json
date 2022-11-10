@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Usefull Link.md",
-                "mode": "preview",
+                "file": "Laravel/Laravel Note.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -93,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Laravel/Usefull Link.md"
-              }
+              "state": {}
             }
           },
           {
@@ -112,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laravel/Usefull Link.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Laravel/Usefull Link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -175,12 +171,12 @@
     "direction": "horizontal",
     "width": 361.5
   },
-  "active": "36152950bc9fdf06",
+  "active": "83b136ac4010be94",
   "lastOpenFiles": [
-    "Laravel/Tutorials/Laravel 8 CRUD.md",
     "Laravel/Laravel Note.md",
-    "Laravel/Tutorials/Chirper.md",
     "Laravel/Usefull Link.md",
+    "Laravel/Tutorials/Laravel 8 CRUD.md",
+    "Laravel/Tutorials/Chirper.md",
     "Laravel/Package/Breeze.md",
     "Windows/Windows Note.md",
     "WSL/WSL Note.md",
