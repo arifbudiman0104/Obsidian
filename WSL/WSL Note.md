@@ -1,3 +1,3 @@
 # WSL (Windows Subsystem for Linux)
 
-[[Command]]
+[[Command]]  #pending

@@ -4,7 +4,7 @@
 
 [[Laragon]] #complete
 
-[[Terminal]]
+[[Terminal]] #pending 
 
 [[VSCode]] #complete
 

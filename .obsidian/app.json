@@ -6,7 +6,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "livePreview": true,
+  "livePreview": false,
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true,
@@ -25,5 +25,7 @@
   "spellcheckLanguages": [
     "id",
     "en-US"
-  ]
+  ],
+  "smartIndentList": true,
+  "useTab": true
 }

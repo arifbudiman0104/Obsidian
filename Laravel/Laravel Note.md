@@ -5,28 +5,28 @@
 [[Installation]] #complete
 ## Package
 - [[Breeze]] #complete
-- [[DOMPDF]]
+- [[DOMPDF]] #pending
 - [[Excel]] #complete
 - [[Frontend Preset]] #complete
 - [[Jetstream]] #complete
-- [[Livewire]]
+- [[Livewire]] #pending
 - [[UI]] #complete
 
 ## System
-- [[Auth]]
-- [[Controller]]
-- [[Env]]
-- [[Factories]]
-- [[Faker]]
-- [[Middleware]]
-- [[Migration]]
-- [[Model]]
-- [[Route]]
-- [[Seeder]]
+- [[Auth]] #pending
+- [[Controller]] #pending
+- [[Env]] #pending
+- [[Factories]] #pending
+- [[Faker]] #pending
+- [[Middleware]] #pending
+- [[Migration]] #pending
+- [[Model]] #pending
+- [[Route]] #pending
+- [[Seeder]] #pending
 - [[Storage Link]] #complete
-- [[View]]
+- [[View]] #pending
 
 ## Tutorial
-- [[Chirper]]
+- [[Chirper]] #pending
 - [[Laravel 8 CRUD]] #complete
-- [[WPU]]
+- [[WPU]] #pending

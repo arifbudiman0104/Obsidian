@@ -19,5 +19,6 @@
   "minimal-style@@spacing-p": "0.5em",
   "minimal-style@@code-size": "16px",
   "minimal-style@@code-background@@dark": "#273040",
-  "minimal-style@@code-background@@light": "#ECF3FF"
+  "minimal-style@@code-background@@light": "#ECF3FF",
+  "minimal-style@@h4-variant": "normal"
 }
