@@ -6,15 +6,21 @@ This is a Learning Note by Arif, made with Obsidian.
 
 [Obsidian](https://obsidian.md/)
 
-## Font
+````ad-important
+title: Font
 - Inter (used for interface and text view mode)
 - Cascadia Mono (used for text edit mode and code block)
-## Tips
-- `[[]]` make internal link
-- `![[]]` make embed internal link
-- `[]()` make external link
+````
 
-## Shortcut
+````ad-important
+title: Tips
+- `[[]]` (make internal link)
+- `![[]]` (make embed internal link)
+- `[]()` (make external link)
+````
+
+````ad-hint
+title: Shortcut
 - `Ctrl + P` (open obsidian command)
 - `Ctrl + E` (open or close edit mode)
 - `Ctrl + Shift + E` (open or close left sidebar)
@@ -25,3 +31,6 @@ This is a Learning Note by Arif, made with Obsidian.
 - `Ctrl + N` (make new note)
 - `>` or `Shift + .` (open markdown shortcut)
 - `Ctrl + Shift + I` (insert template)
+- `Ctrl + Shift + ⬇️` (duplicate line)
+- `Ctrl + D` (delete line)
+````

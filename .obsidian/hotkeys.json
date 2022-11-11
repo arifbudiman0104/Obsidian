@@ -2,9 +2,10 @@
   "duplicate-line:duplicate-line": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "D"
+      "key": "ArrowDown"
     }
   ],
   "obsidian-minimal-settings:toggle-hidden-borders": [],

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "43d96aa0eb35d116",
+        "id": "28c3dbeed57a034f",
         "type": "tabs",
         "children": [
           {
-            "id": "d8fdabccaf04680b",
+            "id": "af2dbe06575832e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laravel/Laravel Note.md",
-                "mode": "source",
+                "file": "Readme.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -32,7 +32,7 @@
       {
         "id": "1675ef9a70c81cb0",
         "type": "tabs",
-        "dimension": 24.418604651162788,
+        "dimension": 23.837209302325583,
         "children": [
           {
             "id": "63072d9f523cc662",
@@ -47,7 +47,7 @@
       {
         "id": "5945797aec93b1c1",
         "type": "tabs",
-        "dimension": 75.5813953488372,
+        "dimension": 76.16279069767442,
         "children": [
           {
             "id": "837c0cb47d6d254d",
@@ -66,10 +66,10 @@
               "type": "search",
               "state": {
                 "query": "tag:#pending",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
@@ -87,13 +87,16 @@
       {
         "id": "2554cbfa439fc589",
         "type": "tabs",
+        "dimension": 65.50387596899225,
         "children": [
           {
             "id": "2c768cd4f5399e93",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Readme.md"
+              }
             }
           },
           {
@@ -110,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Readme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -154,11 +159,12 @@
         "currentTab": 1
       },
       {
-        "id": "999ae3216633c5a7",
+        "id": "3d82d5e073d25f4c",
         "type": "tabs",
+        "dimension": 34.49612403100775,
         "children": [
           {
-            "id": "83b136ac4010be94",
+            "id": "c2bb824a1ac6e518",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -171,17 +177,17 @@
     "direction": "horizontal",
     "width": 361.5
   },
-  "active": "83b136ac4010be94",
+  "active": "af2dbe06575832e2",
   "lastOpenFiles": [
+    "Windows/App/Terminal.md",
     "Laravel/Laravel Note.md",
+    "Laravel/Installation.md",
     "Laravel/Usefull Link.md",
-    "Laravel/Tutorials/Laravel 8 CRUD.md",
-    "Laravel/Tutorials/Chirper.md",
+    "Untitled.md",
+    "Windows/App/Laragon.md",
     "Laravel/Package/Breeze.md",
+    "Laravel/Tutorials/Chirper.md",
     "Windows/Windows Note.md",
-    "WSL/WSL Note.md",
-    "Templates/Document.md",
-    "Templates/Template Note.md",
-    "Templates/Note.md"
+    "Laravel/Tutorials/Laravel 8 CRUD.md"
   ]
 }
