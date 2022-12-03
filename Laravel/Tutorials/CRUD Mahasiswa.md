@@ -1,4 +1,4 @@
-# Laravel 8 CRUD Mahasiswa
+# CRUD Mahasiswa
 ![[Laravel 8 CRUD.png]]
 Membuat Laravel CRUD Mahasiswa tanpa Auth dan tanpa relasi DB
 

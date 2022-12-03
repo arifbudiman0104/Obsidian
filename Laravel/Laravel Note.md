@@ -1,6 +1,6 @@
 # Laravel
 
-[[Create Project]]
+[[Create Project & Clone Project]]
 
 [[Installation]] #complete
 
@@ -15,6 +15,7 @@
 - [[UI]] #complete
 
 ## System
+- [[Artisan]] #complete 
 - [[Auth]] #pending
 - [[Controller]] #pending
 - [[Env]] #pending
@@ -30,5 +31,5 @@
 
 ## Tutorial
 - [[Chirper]] #pending
-- [[Laravel 8 CRUD]] #complete
+- [[CRUD Mahasiswa]] #complete
 - [[WPU]] #pending
