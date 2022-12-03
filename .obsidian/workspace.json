@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ArifCode/Database.md"
+                "file": "Templates/Template Note.md"
               }
             }
           },
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ArifCode/Database.md",
+                "file": "Templates/Template Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ArifCode/Database.md",
+                "file": "Templates/Template Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -190,8 +191,9 @@
     "direction": "horizontal",
     "width": 361.5
   },
-  "active": "e7d4b50077c77fe2",
+  "active": "995f499739ec1e9d",
   "lastOpenFiles": [
+    "ArifCode/Database.md",
     "Templates/Template Note.md",
     "Laravel/Laravel Note.md",
     "Laravel/Create Project & Clone Project.md",
@@ -200,7 +202,6 @@
     "Laravel/Installation.md",
     "Laravel/Package/Breeze.md",
     "Laravel/System/Artisan.md",
-    "Laravel/System/Auth.md",
-    "Laravel/Usefull Link.md"
+    "Laravel/System/Auth.md"
   ]
 }
