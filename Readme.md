@@ -1,6 +1,6 @@
 # Readme
 
-This is a Learning Note by Arif, made with Obsidian.
+This is a Learning Note by Arif, made with Obsidian. 
 
 [Github](https://github.com/arifbudimanarrosyid/Obsidian)
 

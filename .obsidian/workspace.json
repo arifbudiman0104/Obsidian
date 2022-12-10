@@ -4,37 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "4276a905da0659b7",
+        "id": "a72a792da6caa6c4",
         "type": "tabs",
         "children": [
           {
-            "id": "e7d4b50077c77fe2",
+            "id": "5908982e5c35b81f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArifCode/Database.md",
-                "mode": "preview",
+                "file": "Laravel/Usefull Link.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9c2d6855d127156c",
+        "type": "tabs",
+        "children": [
           {
-            "id": "995f499739ec1e9d",
+            "id": "d015aac8ee69c6d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Template Note.md",
+                "file": "Laravel/Usefull Link.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Template Note.md"
+                "file": "Laravel/Usefull Link.md"
               }
             }
           },
@@ -127,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Template Note.md",
+                "file": "Laravel/Usefull Link.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Template Note.md",
+                "file": "Laravel/Usefull Link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -191,17 +196,17 @@
     "direction": "horizontal",
     "width": 361.5
   },
-  "active": "995f499739ec1e9d",
+  "active": "5908982e5c35b81f",
   "lastOpenFiles": [
-    "ArifCode/Database.md",
-    "Templates/Template Note.md",
-    "Laravel/Laravel Note.md",
-    "Laravel/Create Project & Clone Project.md",
-    "Laravel/Tutorials/Chirper.md",
-    "Laravel/Tutorials/CRUD Mahasiswa.md",
-    "Laravel/Installation.md",
     "Laravel/Package/Breeze.md",
+    "Laravel/Usefull Link.md",
+    "Docker/Docker Note.md",
+    "Readme.md",
+    "Laravel/System/Env.md",
     "Laravel/System/Artisan.md",
-    "Laravel/System/Auth.md"
+    "Laravel/System/Controller.md",
+    "Templates/Template Note.md",
+    "ArifCode/Database.md",
+    "Laravel/Laravel Note.md"
   ]
 }
