@@ -6,12 +6,14 @@
 - [Programmer Zaman Now (PZN)](https://www.youtube.com/@ProgrammerZamanNow)
 - [Parsinta](https://www.youtube.com/@Parsinta)
 - [Designated Coder](https://www.youtube.com/@DesignatedCoder)
+- [The Codeholic](https://www.youtube.com/@TheCodeholic)
 
 #### Website
 - [Laravel](https://laravel.com/)
 - [Laravel News](https://laravel-news.com/)
 - [Parsinta](https://parsinta.com/)
-## Tutorial Tutorial
+---
+## Tutorial Laravel
 #### Website
 - [Laravel News - Bookmark Web App](https://laravel-news.com/your-first-laravel-9-application) (Laravel 9, [[Breeze]], Tailwind CSS)
 - [Laravel News - CRUD with Spatie Permission ](https://laravel-news.com/jetstream-spatie-permission) (Laravel 9, [[Jetstream]], [[Livewire]])
@@ -20,6 +22,7 @@
 - [Parsinta - Belajar Laravel 8 Dari Awal](https://youtube.com/playlist?list=PLRKMmwY3-5MwADhthqRaewl-7e7AhjpP8) (Laravel 8)
 #### Youtube Video
 - [PZN - Tutorial Laravel Dasar](https://www.youtube.com/watch?v=ClMX6TXvh_o) (Laravel 9)
+- [The Codeholic - React + Laravel](https://www.youtube.com/watch?v=qJq9ZMB2Was)
 
 ## Other Things About Laravel
 - [Laravel ORM vs Query Builder vs SQL](https://dev.to/hesamzakerirad/laravel-orm-vs-query-builder-vs-sql-speed-test-4knf)
@@ -39,3 +42,10 @@
 - [Tailus](https://tailus.io/)
 - [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
 - [Phantom UI](https://phantomui.com/)
+---
+## Alpine JS
+#### Website
+- [Apline JS](https://alpinejs.dev/)
+#### Tutorial Video
+- [The Codeholic - Alpine.js Full Course for Beginners](https://www.youtube.com/watch?v=5ILDMMLgX0E&list=PLLQuc_7jk__Uq-BTy0ut2fzoWFNOIb33b)
+
