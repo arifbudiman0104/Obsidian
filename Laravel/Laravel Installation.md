@@ -1,4 +1,4 @@
-# Installation
+# Laravel Installation
 
 ![[Laragon]]
 ![[VSCode]]

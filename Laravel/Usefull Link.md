@@ -5,6 +5,7 @@
 - [Web Programming UNPAS (WPU)](https://www.youtube.com/c/WebProgrammingUNPAS)
 - [Programmer Zaman Now (PZN)](https://www.youtube.com/@ProgrammerZamanNow)
 - [Parsinta](https://www.youtube.com/@Parsinta)
+- [Designated Coder](https://www.youtube.com/@DesignatedCoder)
 
 #### Website
 - [Laravel](https://laravel.com/)
