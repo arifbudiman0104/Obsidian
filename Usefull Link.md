@@ -11,6 +11,7 @@
 #### Website
 - [Laravel](https://laravel.com/)
 - [Laravel News](https://laravel-news.com/)
+- [Laravel Daily](https://laraveldaily.com/)
 - [Parsinta](https://parsinta.com/)
 ---
 ## Tutorial Laravel
@@ -23,8 +24,13 @@
 #### Youtube Video
 - [PZN - Tutorial Laravel Dasar](https://www.youtube.com/watch?v=ClMX6TXvh_o) (Laravel 9)
 - [The Codeholic - React + Laravel](https://www.youtube.com/watch?v=qJq9ZMB2Was)
+- [Laravel Daily - Laravel: Your First Project](https://www.youtube.com/watch?v=2bz5eleBj98) (Laravel 9, Bootstrap)
+## Learning Path
+- [WPU - Jalur Belajar Web Developer](https://coggle.it/diagram/YA5j5BfeOvNuaqYu/t/jalur-belajar-web-development-2022-untuk-pemula/ed6061d5440b5a1a42737fb2f52ac42eb9c516a325ab949a57ee697eaed146c5)
+- [Laravel Daily - Roadmap Learning Path](https://laraveldaily.com/roadmap-learning-path)
 
 ## Other Things About Laravel
+
 - [Laravel ORM vs Query Builder vs SQL](https://dev.to/hesamzakerirad/laravel-orm-vs-query-builder-vs-sql-speed-test-4knf)
 - [Laravel Jetstream vs Breeze vs Laravel UI](https://dev.to/ajayyadav/laravel-jetstream-vs-breeze-vs-laravel-ui-4e39)
 ---
@@ -43,9 +49,10 @@
 - [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
 - [Phantom UI](https://phantomui.com/)
 ---
-## Alpine JS
+## Alpine.js
 #### Website
 - [Apline JS](https://alpinejs.dev/)
 #### Tutorial Video
 - [The Codeholic - Alpine.js Full Course for Beginners](https://www.youtube.com/watch?v=5ILDMMLgX0E&list=PLLQuc_7jk__Uq-BTy0ut2fzoWFNOIb33b)
+- [Alpine.js Crash Course](https://www.youtube.com/watch?v=r5iWCtfltso)
 

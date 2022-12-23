@@ -7,11 +7,13 @@
 [[Usefull Link]]
 ## Package
 - [[Breeze]] #complete
+- [[Comments]] #pending 
 - [[DOMPDF]] #pending
 - [[Excel]] #complete
 - [[Frontend Preset]] #complete
 - [[Jetstream]] #complete
 - [[Livewire]] #pending
+- [[Splade]] #pending 
 - [[UI]] #complete
 
 ## System
