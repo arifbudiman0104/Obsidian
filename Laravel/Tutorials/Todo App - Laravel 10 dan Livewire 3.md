@@ -40,7 +40,7 @@ php artisan migrate
 ## App layout
 - Buka file `app.blade.php`
 - Ubah menjadi seperti code berikut
-```php
+```html
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
