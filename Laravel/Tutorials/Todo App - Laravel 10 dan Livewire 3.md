@@ -5,11 +5,9 @@ telegraph_page_path: Todo-App---Laravel-10-dan-Livewire-3-08-05
 # Pembuatan Project Laravel
 Pembuatan laravel project saya akan menerangkan menggunakan 2 cara yaitu laragon dan laravel installer.
 ## Laragon
-#### Create Project Laravel
-- Buka laragon, Start All
-
-![Laragon](https://github.com/arifbudimanarrosyid/Obsidian/blob/master/Laravel/Tutorials/Assets/Todo%20App%20-%20Laravel%2010%20dan%20Livewire%203/laragon.png?raw=true)
-
+#### Pembuatan Project
+- Buka laragon, Start All ![Laragon](https://github.com/arifbudimanarrosyid/Obsidian/blob/master/Laravel/Tutorials/Assets/Todo%20App%20-%20Laravel%2010%20dan%20Livewire%203/laragon.png?raw=true)
+- ![Laragon](https://github.com/arifbudimanarrosyid/Obsidian/blob/master/Laravel/Tutorials/Assets/Todo%20App%20-%20Laravel%2010%20dan%20Livewire%203/laragon.png?raw=true)
 - Buka Menu > Quick App > Laravel
 - Masukkan nama project "todo-livewire-breeze", tunggu sampai selesai
 - Buka project laravel yang telah dibuat di Text Editor atau IDE php
@@ -21,7 +19,8 @@ Pembuatan laravel project saya akan menerangkan menggunakan 2 cara yaitu laragon
 - ad
 #### Install Livewire 3
 ## Laravel Installer
-#### Create Project Laravel
+#### Install Laravel Installer
+#### Pembuatan Project
 ```bash
 laravel new todo-livewire-breeze
 ```
