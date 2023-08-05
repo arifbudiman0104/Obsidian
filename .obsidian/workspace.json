@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a79b1152f32ac4ca",
+        "id": "7d3e14d4c743bd7e",
         "type": "tabs",
         "children": [
           {
-            "id": "f2fb6bd28322d9ce",
+            "id": "3f3dc574cdbd927b",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "ArifCode/Database.md",
-                "staged": false
+                "file": "Laravel/Tutorials/Todo App - Laravel 10 dan Livewire 3.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -84,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Laravel/Tutorials/Todo App - Laravel 10 dan Livewire 3.md"
+              }
             }
           },
           {
@@ -101,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Laravel/Tutorials/Todo App - Laravel 10 dan Livewire 3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Laravel/Tutorials/Todo App - Laravel 10 dan Livewire 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,8 +180,12 @@
       "obsidian-telegraph-publish:Publish to Telegraph": false
     }
   },
-  "active": "f2fb6bd28322d9ce",
+  "active": "3f3dc574cdbd927b",
   "lastOpenFiles": [
+    "Pasted image 20230806023336.png",
+    "Laravel/Deploy Azure.md",
+    "Laravel/Laravel Installation.md",
+    "Laravel/Laravel Note.md",
     "Laravel/Tutorials/Todo App - Laravel 10 dan Livewire 3.md",
     "Laravel/Create Project & Clone Project.md",
     "Laravel/Tutorials/CRUD Mahasiswa.md",
@@ -189,15 +199,12 @@
     "Youtube",
     "Readme.md",
     "Laravel/Tutorials/WPU.md",
-    "Laravel/Laravel Note.md",
     "Laravel/System/Artisan.md",
-    "Laravel/Laravel Installation.md",
     "PWF/Materi PWF.md",
     "Materi 1.md",
     "A - Personal Project/IMM/Database Structure.md",
     "A - Personal Project/ArifCode/Database.md",
     "Laravel/Package/Notify.md",
-    "Laravel/Deploy Azure.md",
     "Laravel/Package/Comments.md",
     "Usefull Link.md"
   ]
