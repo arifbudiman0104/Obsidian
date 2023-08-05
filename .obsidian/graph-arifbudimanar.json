@@ -2,18 +2,11 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
-  "hideUnresolved": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
-    {
-      "query": "tag:#readme",
-      "color": {
-        "a": 1,
-        "rgb": 16514816
-      }
-    },
     {
       "query": "path:Laravel",
       "color": {
@@ -41,6 +34,13 @@
         "a": 1,
         "rgb": 13107440
       }
+    },
+    {
+      "query": "path:Templates",
+      "color": {
+        "a": 1,
+        "rgb": 16774912
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.12636093332769846,
+  "scale": 0.730571028806087,
   "close": true
 }

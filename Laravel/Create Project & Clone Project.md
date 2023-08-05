@@ -35,6 +35,7 @@ git clone [link]
 Install package yang dibutuhkan
 ````shell
 npm install
+composer install
 ````
 Buat DB baru dan edit `.env` file  
 ````

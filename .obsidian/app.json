@@ -22,10 +22,7 @@
   "showIndentGuide": false,
   "foldIndent": true,
   "spellcheck": false,
-  "spellcheckLanguages": [
-    "id",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "smartIndentList": true,
   "useTab": true
 }
