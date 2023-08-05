@@ -8,7 +8,7 @@ Pembuatan laravel project saya akan menerangkan menggunakan 2 cara yaitu laragon
 #### Create Project Laravel
 - Buka laragon, Start All
 
-![Laragon](https://github.com/arifbudimanarrosyid/Obsidian/blob/master/Laravel/Tutorials/Assets/Todo%20App%20-%20Laravel%2010%20dan%20Livewire%203/laragon.png)
+![Laragon](https://github.com/arifbudimanarrosyid/Obsidian/blob/master/Laravel/Tutorials/Assets/Todo%20App%20-%20Laravel%2010%20dan%20Livewire%203/laragon.png?raw=true)
 
 - Buka Menu > Quick App > Laravel
 - Masukkan nama project "todo-livewire-breeze", tunggu sampai selesai

@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Laravel/Tutorials/Todo App - Laravel 10 dan Livewire 3.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
@@ -184,10 +184,11 @@
   },
   "active": "350d90ddac8cb096",
   "lastOpenFiles": [
-    "Laravel/Tutorials/Assets/Todo App - Laravel 10 dan Livewire 3/laragon.png",
-    "Laravel/Tutorials/Todo App - Laravel 10 dan Livewire 3.md",
-    "Laravel/Tutorials/Laravel 8 CRUD.md",
+    "Usefull Link.md",
     "Readme.md",
+    "Laravel/Tutorials/Todo App - Laravel 10 dan Livewire 3.md",
+    "Laravel/Tutorials/Assets/Todo App - Laravel 10 dan Livewire 3/laragon.png",
+    "Laravel/Tutorials/Laravel 8 CRUD.md",
     "Laravel/Tutorials/Assets/Todo App - Laravel 10 dan Livewire 3",
     "Pasted image 20230806023336.png",
     "Laravel/Deploy Azure.md",
@@ -209,7 +210,6 @@
     "A - Personal Project/IMM/Database Structure.md",
     "A - Personal Project/ArifCode/Database.md",
     "Laravel/Package/Notify.md",
-    "Laravel/Package/Comments.md",
-    "Usefull Link.md"
+    "Laravel/Package/Comments.md"
   ]
 }
