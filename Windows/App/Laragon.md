@@ -1,5 +1,5 @@
 # Laragon
-![[Laragon.png]]
+![[Windows/App/Assets/Thumbnail/Laragon.png]]
 
 [Laragon Documentation](https://laragon.org/docs/install.html)
 

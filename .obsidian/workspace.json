@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7d3e14d4c743bd7e",
+        "id": "fcd0233e44a05df8",
         "type": "tabs",
         "children": [
           {
-            "id": "3f3dc574cdbd927b",
+            "id": "350d90ddac8cb096",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,7 +18,8 @@
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -180,15 +182,18 @@
       "obsidian-telegraph-publish:Publish to Telegraph": false
     }
   },
-  "active": "3f3dc574cdbd927b",
+  "active": "350d90ddac8cb096",
   "lastOpenFiles": [
+    "Laravel/Tutorials/Assets/Todo App - Laravel 10 dan Livewire 3/laragon.png",
+    "Laravel/Tutorials/Todo App - Laravel 10 dan Livewire 3.md",
+    "Laravel/Tutorials/Laravel 8 CRUD.md",
+    "Readme.md",
+    "Laravel/Tutorials/Assets/Todo App - Laravel 10 dan Livewire 3",
     "Pasted image 20230806023336.png",
     "Laravel/Deploy Azure.md",
     "Laravel/Laravel Installation.md",
     "Laravel/Laravel Note.md",
-    "Laravel/Tutorials/Todo App - Laravel 10 dan Livewire 3.md",
     "Laravel/Create Project & Clone Project.md",
-    "Laravel/Tutorials/CRUD Mahasiswa.md",
     "Laravel/Tutorials/asd.md",
     "Laravel/Tutorials/Chirper.md",
     "asdad",
@@ -197,7 +202,6 @@
     "Laravel/Create Laravel Project.md",
     "Youtube/Script",
     "Youtube",
-    "Readme.md",
     "Laravel/Tutorials/WPU.md",
     "Laravel/System/Artisan.md",
     "PWF/Materi PWF.md",

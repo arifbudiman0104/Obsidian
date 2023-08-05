@@ -33,5 +33,5 @@
 
 ## Tutorial
 - [[Chirper]] #pending
-- [[CRUD Mahasiswa]] #complete
+- [[Laravel 8 CRUD]] #complete
 - [[WPU]] #pending
